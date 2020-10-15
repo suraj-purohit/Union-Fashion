@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Sync'
+      summary: 'Sample endpoint: Changed'
       operationId: listUser
       tags:
         - user
